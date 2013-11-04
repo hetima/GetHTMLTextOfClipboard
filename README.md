@@ -7,6 +7,7 @@ Tested on Safari, Chrome and Firefox.
 
 
 #Install
+There is binary at [releases section](https://github.com/hetima/GetHTMLTextOfClipboard/releases/).
 
 Place into ~/Library/Automator or double click.
 
