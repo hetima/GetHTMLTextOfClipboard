@@ -1,0 +1,23 @@
+/* Localized versions of Info.plist keys */
+
+/* AMApplication localized strings */
+/* e.g. "TextEdit" = "TextEdit"; */
+
+/* AMCategory localized strings */
+/* e.g. "Text" = "Text"; */
+
+AMName = "クリップボードの内容を取得 (HTML Text)";
+
+/* AMDefaultParameters localized values */
+/* e.g. myDefaultIntegerParameter = 0; */
+/* e.g. myDefaultStringParameter = "Default String Value"; */
+
+/* AMDescription localized strings */
+AMDInput = "不使用";
+AMDSummary = "Web ブラウザでコピーしたクリップボードの内容を HTML Text で取得します。";
+
+
+/* AMKeyword localized strings */
+/* e.g. "Filter" = "Filter"; */
+
+

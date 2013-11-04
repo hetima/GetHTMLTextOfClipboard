@@ -1,0 +1,20 @@
+/* Localized versions of Info.plist keys */
+
+/* AMApplication localized strings */
+/* e.g. "TextEdit" = "TextEdit"; */
+
+/* AMCategory localized strings */
+/* e.g. "Text" = "Text"; */
+
+AMName = "Get HTML Text of Clipboard";
+
+/* AMDefaultParameters localized values */
+/* e.g. myDefaultIntegerParameter = 0; */
+/* e.g. myDefaultStringParameter = "Default String Value"; */
+
+/* AMDescription localized strings */
+AMDInput = "not used";
+AMDSummary = "Copies HTML text from the Clipboard copied by web browser";
+
+/* AMKeyword localized strings */
+/* e.g. "Filter" = "Filter"; */
